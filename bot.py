@@ -3,7 +3,7 @@ from aiogram.dispatcher.filters import Text
 import logic
 
 from aiogram import Bot, Dispatcher, types
-from aiogram.utils import executor, emoji
+from aiogram.utils import executor
 from aiogram.types import InlineKeyboardButton, KeyboardButton
 from dotenv import load_dotenv
 
